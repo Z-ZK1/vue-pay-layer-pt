@@ -1,0 +1,19 @@
+{
+  "name": "vue-pay-layer-pt",
+  "version": "1.0.0",
+  "description": "移动端 Vue 支付密码弹窗插件（葡萄牙语版本）",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-pay",
+    "layer",
+    "password"
+  ],
+  "author": "335352068@qq.com",
+  "license": "ISC"
+}
